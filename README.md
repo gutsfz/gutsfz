@@ -92,8 +92,12 @@ Developed interactive physics simulations presented at **Se²pin and XXV SNEF**.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gutsfz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutsfz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gutsfz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutsfz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gutsfz&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
